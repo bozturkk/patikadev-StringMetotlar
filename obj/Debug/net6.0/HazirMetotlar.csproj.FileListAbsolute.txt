@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/bin/Debug/net6.0/HazirMetotlar
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/bin/Debug/net6.0/HazirMetotlar.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/bin/Debug/net6.0/HazirMetotlar.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/bin/Debug/net6.0/HazirMetotlar.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/bin/Debug/net6.0/HazirMetotlar.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/refint/HazirMetotlar.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/HazirMetotlar.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HazirMetotlar/obj/Debug/net6.0/ref/HazirMetotlar.dll
